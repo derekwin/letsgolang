@@ -7,5 +7,5 @@ func main() {
 }
 
 /*
-go run hello_world.go
+go run main.go
 */
