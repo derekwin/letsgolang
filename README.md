@@ -6,3 +6,5 @@
 #### 文章目录
 - [go环境配置](https://zhuanlan.zhihu.com/p/591706705)
 - [go项目结构，模块打包](https://zhuanlan.zhihu.com/p/592141019)
+- [go中的各种数据结构](https://zhuanlan.zhihu.com/p/592121832)
+- [go基础语法一网打尽](https://zhuanlan.zhihu.com/p/592245384)
