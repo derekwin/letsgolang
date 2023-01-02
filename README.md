@@ -9,5 +9,6 @@
 - [go项目结构，模块打包](https://zhuanlan.zhihu.com/p/592141019)
 - [go中的各种数据结构](https://zhuanlan.zhihu.com/p/592121832)
 - [go基础语法一网打尽](https://zhuanlan.zhihu.com/p/592245384)
+- [go基础语法-控制流，函数](https://zhuanlan.zhihu.com/p/592245384)
 ##### 看源码学go
-- [开源学go-go标准库实用技巧](https://zhuanlan.zhihu.com/p/595562756)
+- [[开源学go] go标准库实用技巧](https://zhuanlan.zhihu.com/p/595562756)
