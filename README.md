@@ -12,3 +12,8 @@
 - [go基础语法-控制流，函数](https://zhuanlan.zhihu.com/p/592245384)
 ##### 看源码学go
 - [[开源学go] go标准库实用技巧 bufio，bytes，flag ](https://zhuanlan.zhihu.com/p/595562756)
+- [[开源学go] go标准库实用技巧2-crypto ](https://zhuanlan.zhihu.com/p/596747782)
+
+
+##### 番外篇-字节青训营笔记
+- [Go基础入门与实战（番外篇）](https://zhuanlan.zhihu.com/p/599214034)
